@@ -1,0 +1,10 @@
+*.pyc
+*.lock
+*.tmp
+*.index
+*.db
+.coverage
+tutorial.egg-info/
+.pdbrc
+dist/
+tutorial.egg-info/
